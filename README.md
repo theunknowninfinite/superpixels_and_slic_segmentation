@@ -8,7 +8,8 @@ as well as utilities for visualizing and evaluating the results.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- 
+
+
 ## Introduction
 ### Superpixels
 Superpixels are compact, contiguous regions in an image that are perceptually similar. 
