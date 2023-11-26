@@ -20,13 +20,13 @@ SLIC is a superpixel segmentation algorithm that combines k-means clustering wit
 It is known for its efficiency and effectiveness in generating superpixels that adhere well to object boundaries. 
 SLIC is particularly useful when accurate boundaries are crucial for downstream tasks.
 
-## Requirements
-
-The notebook installs the necessary packages.
-Run the notebook in  Google Collab or in a host having Cuda.
+## Packages Used
+The notebook using the following packages. You can run the notebook in collab or on a host having cuda support.
 - NumPy
 - OpenCV (cv2)
 - scikit-learn
 - Matplotlib
-- pandas 
+- pandas
+
+The packages are automatically installed when the notebook runs.
   
